@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mercadolibre.android:ui-5.9.0">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui-5.9.0.aar/f6b9281f1ff05760414681f30d90697a/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui-5.9.0.aar/f6b9281f1ff05760414681f30d90697a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui-5.9.0.aar/f6b9281f1ff05760414681f30d90697a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mercadolibre.android/ui/5.9.0/b69ff24c86bd0a92b43ac9482ba6540231eedaed/ui-5.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

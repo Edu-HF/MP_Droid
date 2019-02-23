@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mercadolibre.android:ui_legacy-5.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui_legacy-5.9.0.aar/7ce526a0b81fb3d1dbdda8bfb8cb6f43/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui_legacy-5.9.0.aar/7ce526a0b81fb3d1dbdda8bfb8cb6f43/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mercadolibre.android/ui_legacy/5.9.0/8146c49c03356b9f0bd9ee6945bade9d810d3e8f/ui_legacy-5.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

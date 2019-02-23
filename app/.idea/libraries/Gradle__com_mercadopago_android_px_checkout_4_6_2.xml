@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mercadopago.android.px:checkout-4.6.2">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/checkout-4.6.2.aar/b97dbb06e8833ee4a4967c403acac28d/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/checkout-4.6.2.aar/b97dbb06e8833ee4a4967c403acac28d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/checkout-4.6.2.aar/b97dbb06e8833ee4a4967c403acac28d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mercadopago.android.px/checkout/4.6.2/b99009a51fc6bb14a83c55d7878fce3cb12939d/checkout-4.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

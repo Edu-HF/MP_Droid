@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MP</string>
+    <string name="cat_all">TODOS</string>
+    <string name="done_br">Aceitar</string>
+    <string name="add">+</string>
+    <string name="remove">-</string>
+    <string name="promo">Promo</string>
+    <string name="car_unit">0 UN</string>
+    <string name="zero">0</string>
+    <string name="product_image_desc">Product Image</string>
+    <string name="total_price">TOTAL</string>
+    <string name="buy_btn">COMPRAR</string>
+</resources>
